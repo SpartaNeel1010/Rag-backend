@@ -1,0 +1,8 @@
+.env
+Lib/
+Include/
+Scripts/
+share/
+.dockerignore
+dockerfile
+code.ipynb
